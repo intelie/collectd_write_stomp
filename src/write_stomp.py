@@ -1,5 +1,4 @@
 
-import random
 import collectd
 import stomp
 import json
